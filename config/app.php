@@ -12,7 +12,7 @@ return [
     | any other location as required by the application or its packages.
     */
 
-    'name' => 'Silsilah',
+    'name' => 'KeluargaKu',
 
     /*
     |--------------------------------------------------------------------------
@@ -76,7 +76,7 @@ return [
     |
     */
 
-    'timezone' => 'Asia/Makassar',
+    'timezone' => 'Asia/Jakarta',
 
     /*
     |--------------------------------------------------------------------------
@@ -102,7 +102,7 @@ return [
     |
     */
 
-    'fallback_locale' => 'en',
+    'fallback_locale' => 'id',
 
     /*
     |--------------------------------------------------------------------------
